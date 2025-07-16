@@ -55,7 +55,7 @@
 
   <br />
   <div align="center">
-    🌐 <strong>Live Demo</strong>: <a href="#">Coming Soon</a>
+    🌐 <strong>Live Demo</strong>: <a href="https://cryptohuntershub.netlify.app/">Live Demo</a>
   </div>
 
   <br />
