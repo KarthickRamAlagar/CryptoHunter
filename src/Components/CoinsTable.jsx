@@ -106,7 +106,7 @@ const CoinsTable = () => {
                     <TableCell
                       style={{
                         color: "black",
-                        fontFamily: "700",
+                        fontWeight: "700",
                         fontFamily: "Montserrat",
                         fontWeight: "bold",
                       }}
