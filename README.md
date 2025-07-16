@@ -126,7 +126,7 @@ The app supports responsive design, chart visualizations, dynamic coin detail pa
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/KarthickRamAlagar/cryptohunter.git
+git clone https://github.com/KarthickRamAlagar/cryptoHunter.git
 cd cryptohunter
 npm install
 ```
