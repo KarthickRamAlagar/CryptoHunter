@@ -1,37 +1,4 @@
-<style>
-  .hero-images {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-  }
 
-  .hero-images img {
-    width: 100%;
-    max-width: 500px;
-    height: 300px;
-  }
-
-  @media (min-width: 768px) {
-    .hero-images {
-      flex-direction: row;
-    }
-    .hero-images img {
-      width: 48%;
-    }
-  }
-
-  @media (max-width: 767px) {
-    .hero-images {
-      flex-direction: column;
-    }
-    .hero-images img {
-      width: 100%;
-    }
-  }
-</style>
-
-<br/>
 <div align="center">
 <div class="hero-images">
   <img src="./public/Screen1.png" alt="Hero Image 1" />
